@@ -1,4 +1,5 @@
-I Am Vitor 👋
+Olá, me chamo Vitor.
+Estou voltando a estudar programação depois que tive meu primeiro contato nessa área através do curso técnico de programação para jogos digitais na ETEC👋
 
 <!--
 **vitordsg/vitordsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
