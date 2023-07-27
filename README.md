@@ -1,8 +1,8 @@
 ## Olá, Me Chamo Vitor Santos
 
 Estou voltando a estudar programação depois que tive meu primeiro contato nessa área através do curso técnico de programação para jogos digitais na ETEC👋
-Atualmente estou estudando HTML5, CSS3 e Javascript na Origamid - 📚
-Atualmente estudando Análise e Desenvolvimento de Sistemas - EaD - UNISANTA (Universidade Santa Cécilia) - 📚
+- Atualmente estou estudando HTML5, CSS3 e Javascript na Origamid 📚
+- Atualmente estudando Análise e Desenvolvimento de Sistemas - EaD - UNISANTA (Universidade Santa Cécilia) - 📚
 
 
 ## Mais sobre mim
@@ -40,7 +40,7 @@ object **Vitor** {
 
 <!--[website]: https://codedev.ga/-->
 <!--[twitter]: https://twitter.com/SEUTWITTER-->
-[youtube]: https://www.youtube.com/user/@Vitorzkk/
+[youtube]: https://www.youtube.com/@Vitorzkk/featured
 [instagram]: https://www.instagram.com/99_vdsg/
 [linkedin]: https://www.linkedin.com/in/vitor-dos-santos-gon%C3%A7alves-11851917b/
 
