@@ -50,6 +50,7 @@ object **Vitor** {
 
 <!--🏡 [Website][website] **|**-->
 <!--🐦 [Twitter][twitter] **|**-->
-📺 [Youtube][youtube] **|**
+<code>img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</code>
+📺 [Youtube][youtube] **|** 
 📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
