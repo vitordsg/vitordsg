@@ -1,4 +1,4 @@
-Olá, me chamo Vitor,
+## Olá, Me Chamo Vitor Santos
 estou voltando a estudar programação depois que tive meu primeiro contato nessa área através do curso técnico de programação para jogos digitais na ETEC👋
 
 <!--
