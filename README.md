@@ -51,7 +51,7 @@ object **Vitor** {
 <!--🏡 [Website][website] **|**-->
 <!--🐦 [Twitter][twitter] **|**-->
 <div>
- <a href="https://www.instagram.com/99_vdsg target="_blank"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white.png" target="_blank"></a>
+ <a href="https://www.instagram.com/99_vdsg target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white.png" target="_blank"></a>
 </div>
 📺 [Youtube][youtube] **|** 
 📷 [Instagram][instagram] **|**
