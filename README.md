@@ -11,11 +11,11 @@ Estou voltando a estudar programação depois que tive meu primeiro contato ness
 
 ```kotlin
 object **Vitor** {
- val name = "Vitor dos Santos Gonçalves"
- val acknowledgements = "Desenvolvimento Web/ Front-end"
+ var name = "Vitor dos Santos Gonçalves"
+ var acknowledgements = "Desenvolvimento Web/ Front-end"
 
- val primarySkillset = "Estudando as Habilidades"
- val languages = listOf("Javascript","HTML5", "CSS3")
+ var primarySkillset = "Aperfeiçoando as habilidades"
+ var languages = listOf("Javascript","HTML5", "CSS3")
 
 }
 ```
