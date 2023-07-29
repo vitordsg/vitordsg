@@ -1,7 +1,7 @@
 ## Olá, Me chamo Vitor Santos
 
 Estou voltando a estudar programação depois que tive meu primeiro contato nessa área através do curso técnico de programação para jogos digitais na ETEC👋
-- Atualmente estou estudando HTML5, CSS3 e Javascript na Origamid 📚
+- Atualmente estou estudando Desenvolvimento Web/ Front-end(HTML5, CSS3, Javascript e etc.) na Origamid 📚
 - Atualmente estudando Análise e Desenvolvimento de Sistemas - EaD - UNISANTA (Universidade Santa Cécilia) - 📚
 
 
