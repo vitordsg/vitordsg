@@ -4,6 +4,7 @@ Estou voltando a estudar programação depois que tive meu primeiro contato ness
 - Atualmente estou estudando Desenvolvimento Web/ Front-end( HTML5, CSS3, Javascript e etc. ) na Origamid 📚
 - Atualmente estudando Análise e Desenvolvimento de Sistemas - EaD - UNISANTA ( Universidade Santa Cécilia ) - 📚
 
+- Desejo futuramente me tornar um Desenvolvedor Front-end
 
 ## Mais sobre mim
 
@@ -14,7 +15,7 @@ object ** Developer ** {
  const name = "Vitor dos Santos Gonçalves"
  const acknowledgements = "Desenvolvimento Web/ Front-end"
 
- const primarySkillset = "Aperfeiçoando as habilidades"
+ const primarySkillset = "Aperfeiçoando as skills"
  const languages = listOf("Javascript","HTML5", "CSS3")
 
 }
