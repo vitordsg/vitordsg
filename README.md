@@ -1,6 +1,6 @@
 ##  Olá, Me Chamo Vitor 👋👋
 
-Estou voltando a estudar programação depois que tive meu primeiro contato nessa área através do curso técnico de programação para jogos digitais na ETEC. 
+Estou voltando a estudar programação depois que tive meu primeiro contato nessa área através do curso técnico de programação para jogos digitais na ETEC.
 
 - Atualmente estou estudando Desenvolvimento Web/ Front-end ( HTML5, CSS3, Javascript e etc. ) na Origamid 📚.
 - Atualmente estudando Análise e Desenvolvimento de Sistemas - EaD - UNISANTA ( Universidade Santa Cécilia ) - 📚.
@@ -12,7 +12,7 @@ Estou voltando a estudar programação depois que tive meu primeiro contato ness
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object ** Developer ** {
+object ** Front-end Developer ** {
  const name = "Vitor dos Santos Gonçalves"
  const acknowledgements = "Desenvolvimento Web/ Front-end"
 
