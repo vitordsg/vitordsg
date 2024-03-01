@@ -17,7 +17,6 @@ object * Front-End Developer - AWS * {
  const acknowledgements = " Desenvolvimento Web / Front-end "
  const primarySkillset = " Aperfeiçoando as skills "
  const languages = listOf ( " Javascript ", " HTML5 ", " CSS3 " )
-
 }
 ```
 
