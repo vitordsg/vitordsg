@@ -42,7 +42,6 @@ object * Front-End Developer - AWS * {
 </a>
 <br>
 
-
 ## Rede Sociais
 
 <div>
