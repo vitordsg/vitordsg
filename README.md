@@ -40,7 +40,6 @@ object * Front-End Developer - AWS * {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitordsg&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 <br>
-
 ## Rede Sociais
 
 <div>
