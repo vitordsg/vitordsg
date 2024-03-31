@@ -1,6 +1,5 @@
 ##  Olá, Me Chamo Vitor  👋😁
 
-
 Estou voltando a estudar programação depois que tive meu primeiro contato nessa área através do curso técnico de programação para jogos digitais na instituição ETEC.
 
 - Atualmente estou estudando Desenvolvimento Web/ Front-end ( HTML5, CSS3, Javascript e etc. ) na Origamid 📚.
