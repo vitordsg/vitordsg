@@ -13,10 +13,10 @@ Estou voltando a estudar programação depois que tive meu primeiro contato ness
 ```kotlin
 object * Front-End Developer * {
 
- const name = " Vitor dos Santos "
- const acknowledgements = " Desenvolvimento Web / Front-end "
- const primarySkillset = " Aperfeiçoando as skills "
- const languages = listOf ( " Javascript ", " HTML5 ", " CSS3 " )
+ const name = "Vitor dos Santos"
+ const acknowledgements = "Desenvolvimento Web / Front-end"
+ const primarySkillset = "Aperfeiçoando as skills"
+ const languages = listOf (" Javascript ", " HTML5 ", " CSS3 ")
 }
 ```
 
