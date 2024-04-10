@@ -10,7 +10,7 @@ Estou voltando a estudar programação depois que tive meu primeiro contato ness
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
+``` kotlin
 object * Front-End Developer * {
 
  const name = "Vitor dos Santos"
@@ -18,7 +18,7 @@ object * Front-End Developer * {
  const primarySkillset = "Aperfeiçoando as skills"
  const languages = listOf (" Javascript ", " HTML5 ", " CSS3 ")
 }
-```
+ ```
 
 ## Linguagens e Ferramentas
 
