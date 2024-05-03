@@ -1,4 +1,4 @@
-##  Olá, Me Chamo Vitor👋😁
+##  Olá, Me Chamo Vitor 👋😁
 
 Estou voltando a estudar programação depois que tive meu primeiro contato nessa área através do curso técnico de programação para jogos digitais na instituição ETEC.
 
