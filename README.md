@@ -5,7 +5,7 @@ Estou voltando a estudar programação depois que tive meu primeiro contato ness
 - Atualmente estou estudando Desenvolvimento Web/ Front-end ( HTML5, CSS3, Javascript, React, Typescript e etc. ) na Origamid 📚.
 - Atualmente estudando Análise e Desenvolvimento de Sistemas - EaD - UNISANTA ( Universidade Santa Cécilia ) 📚.
 - Desejo futuramente tornar-se um Desenvolvedor Front-end 🚀.
-
+- Atualmente estudando framework React 📚
 ## Mais Sobre Mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
