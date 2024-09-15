@@ -25,7 +25,7 @@ object * Front-End Developer * {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,github,tailwind,vscode,vite,npm,ps,pr,regex" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,tailwind,vscode,vite,npm,ps,pr,regex" />
   </a>
 </p>
 
