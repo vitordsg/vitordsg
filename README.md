@@ -2,7 +2,7 @@
 
 Estou voltando a estudar programação depois que tive meu primeiro contato nessa área através do curso técnico de programação para jogos digitais na instituição ETEC.
 
-- Atualmente estou estudando Desenvolvimento Web/ Front-end ( HTML5, CSS3, Javascript, React, Typescript e etc. ) na Origamid 📚.
+- Atualmente estudando Desenvolvimento Web/ Front-end ( HTML5, CSS3, Javascript, React, Typescript e etc. ) na Origamid 📚.
 - Atualmente estudando Análise e Desenvolvimento de Sistemas - EaD - UNISANTA ( Universidade Santa Cécilia ) 📚.
 - Atualmente estudando Framework React 📚.
   
