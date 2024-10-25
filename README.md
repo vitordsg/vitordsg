@@ -5,7 +5,7 @@ Estou voltando a estudar programação depois que tive meu primeiro contato ness
 - Atualmente estudando Desenvolvimento Web/ Front-end ( HTML5, CSS3, Javascript, React, Typescript e etc. ) - Origamid 📚.
 - 🔒 Análise e Desenvolvimento de Sistemas - EaD 5/6 - UNISANTA ( Universidade Santa Cécilia ) 📚.
 - Atualmente estudando Framework React 📚.
-- Atualmente estudando AWS ( Amazon Web Services )
+- Atualmente estudando AWS - Cloud Practitioner ( Amazon Web Services )
   
 ## Mais Sobre Mim
 
